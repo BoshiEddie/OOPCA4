@@ -1,0 +1,118 @@
+Apr 28, 2019 11:00:04 AM BusinessObject.Server start
+INFO: Server Starting.....
+Apr 28, 2019 11:00:04 AM BusinessObject.Server start
+INFO: Server: Server started. Listening for connections on port 8080...
+Apr 28, 2019 11:00:19 AM BusinessObject.Server start
+INFO: Server: Client 1 has connected.
+Apr 28, 2019 11:00:19 AM BusinessObject.Server start
+INFO: Server: Port# of remote client: 3723
+Apr 28, 2019 11:00:19 AM BusinessObject.Server start
+INFO: Server: Port# of this server: 8080
+Apr 28, 2019 11:00:35 AM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: findmoviebyid 14
+Apr 28, 2019 11:02:56 AM BusinessObject.Server start
+INFO: Server Starting.....
+Apr 28, 2019 11:02:56 AM BusinessObject.Server start
+INFO: Server: Server started. Listening for connections on port 8080...
+Apr 28, 2019 11:03:04 AM BusinessObject.Server start
+INFO: Server: Client 1 has connected.
+Apr 28, 2019 11:03:04 AM BusinessObject.Server start
+INFO: Server: Port# of remote client: 3742
+Apr 28, 2019 11:03:04 AM BusinessObject.Server start
+INFO: Server: Port# of this server: 8080
+Apr 28, 2019 11:03:23 AM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: findmoviebyid 14
+Apr 28, 2019 11:05:39 AM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: findmoviebytitle iron man
+Apr 28, 2019 11:06:05 AM BusinessObject.Server start
+INFO: Server: Client 2 has connected.
+Apr 28, 2019 11:06:05 AM BusinessObject.Server start
+INFO: Server: Port# of remote client: 3753
+Apr 28, 2019 11:06:05 AM BusinessObject.Server start
+INFO: Server: Port# of this server: 8080
+Apr 28, 2019 11:06:13 AM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 2: recommand
+Apr 28, 2019 11:06:27 AM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 2: recommandmovie wenyu
+Apr 28, 2019 12:00:12 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 2: q
+Apr 28, 2019 12:00:12 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Handler for Client 2 is terminating .....
+Apr 28, 2019 12:00:42 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: moviewatch 233 boshi
+Apr 28, 2019 12:00:54 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: recommandmovie boshi
+Apr 28, 2019 10:46:37 PM BusinessObject.Server start
+INFO: Server Starting.....
+Apr 28, 2019 10:46:37 PM BusinessObject.Server start
+INFO: Server: Server started. Listening for connections on port 8080...
+Apr 28, 2019 10:46:42 PM BusinessObject.Server start
+INFO: Server: Client 1 has connected.
+Apr 28, 2019 10:46:42 PM BusinessObject.Server start
+INFO: Server: Port# of remote client: 3549
+Apr 28, 2019 10:46:42 PM BusinessObject.Server start
+INFO: Server: Port# of this server: 8080
+Apr 28, 2019 10:47:17 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: findmoviebygenre action
+Apr 28, 2019 10:47:32 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: quit
+Apr 28, 2019 10:47:34 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: q
+Apr 28, 2019 10:47:34 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Handler for Client 1 is terminating .....
+Apr 28, 2019 10:48:11 PM BusinessObject.Server start
+INFO: Server Starting.....
+Apr 28, 2019 10:48:11 PM BusinessObject.Server start
+INFO: Server: Server started. Listening for connections on port 8080...
+Apr 28, 2019 10:48:14 PM BusinessObject.Server start
+INFO: Server: Client 1 has connected.
+Apr 28, 2019 10:48:14 PM BusinessObject.Server start
+INFO: Server: Port# of remote client: 3638
+Apr 28, 2019 10:48:14 PM BusinessObject.Server start
+INFO: Server: Port# of this server: 8080
+Apr 28, 2019 10:48:32 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: findmoviebygenre action
+Apr 28, 2019 10:48:44 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: q
+Apr 28, 2019 10:48:44 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Handler for Client 1 is terminating .....
+Apr 28, 2019 11:05:07 PM BusinessObject.Server start
+INFO: Server Starting.....
+Apr 28, 2019 11:05:07 PM BusinessObject.Server start
+INFO: Server: Server started. Listening for connections on port 8080...
+Apr 28, 2019 11:05:11 PM BusinessObject.Server start
+INFO: Server: Client 1 has connected.
+Apr 28, 2019 11:05:11 PM BusinessObject.Server start
+INFO: Server: Port# of remote client: 4649
+Apr 28, 2019 11:05:11 PM BusinessObject.Server start
+INFO: Server: Port# of this server: 8080
+Apr 28, 2019 11:05:30 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: findmoviebygenre action
+Apr 28, 2019 11:06:17 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Read command from client 1: q
+Apr 28, 2019 11:06:17 PM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Handler for Client 1 is terminating .....
+Apr 29, 2019 2:02:35 PM BusinessObject.Server start
+INFO: Server Starting.....
+Apr 29, 2019 2:02:35 PM BusinessObject.Server start
+INFO: Server: Server started. Listening for connections on port 8080...
+Apr 29, 2019 2:02:38 PM BusinessObject.Server start
+INFO: Server: Client 1 has connected.
+Apr 29, 2019 2:02:38 PM BusinessObject.Server start
+INFO: Server: Port# of remote client: 3473
+Apr 29, 2019 2:02:38 PM BusinessObject.Server start
+INFO: Server: Port# of this server: 8080
+May 02, 2019 10:27:06 AM BusinessObject.Server start
+INFO: Server Starting.....
+May 02, 2019 10:27:06 AM BusinessObject.Server start
+INFO: Server: Server started. Listening for connections on port 8080...
+May 02, 2019 10:27:13 AM BusinessObject.Server start
+INFO: Server: Client 1 has connected.
+May 02, 2019 10:27:13 AM BusinessObject.Server start
+INFO: Server: Port# of remote client: 1436
+May 02, 2019 10:27:13 AM BusinessObject.Server start
+INFO: Server: Port# of this server: 8080
+May 02, 2019 10:30:18 AM BusinessObject.Server$ClientHandler run
+WARNING: IOException caught
+May 02, 2019 10:30:18 AM BusinessObject.Server$ClientHandler run
+INFO: Server: (ClientHandler): Handler for Client 1 is terminating .....
